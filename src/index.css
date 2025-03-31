@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  /* background: #212121; */
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: #e01a1a;
+  border: 3px solid #ccc;
+}
+.circle{
+  height: 200px;
+  width: 200px;
+  background-color: #1a34e0;
+  border-radius: 50%;
+  border: 3px solid #ccc;
+}
