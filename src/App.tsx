@@ -4,10 +4,8 @@ import Slider from "./components/Slider";
 function App() {
   return (
     <>
-      <div>
         <Slider/>
         <Animation/>
-      </div>
     </>
   );
 }
