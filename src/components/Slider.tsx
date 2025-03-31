@@ -14,7 +14,7 @@ const Slider = () => {
         style={{ paddingBottom: "25px" }}
         className="font-bold text-6xl font-mono text-center text-violet-700"
       >
-        Let's Try Something New
+        Let's Try Something New in Motion!
       </h2>
 
       <div className="text-center">
